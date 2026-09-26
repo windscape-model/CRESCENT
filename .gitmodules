@@ -1,0 +1,4 @@
+[submodule "Submodules/AMReX"]
+	path = Submodules/AMReX
+	url = https://github.com/amrex-codes/amrex.git
+	shallow = true
